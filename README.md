@@ -20,8 +20,13 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
 - [License](#license)
+- [Credits](#credits)
 
 ### Cat Cafes
 
 ![Taipei MRT map of Cat Cafes](https://cloud.githubusercontent.com/assets/1000669/8227495/799b3e3a-15da-11e5-9d92-c468dcd1cfc3.jpg)<sub>Credit: <a href="http://sping60.pixnet.net/blog/post/33007306" target="_blank">Ms.Aman</a>
 </sub>
+
+### Credits
+
+This guide is inspired by Ruby Singapore community, check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
