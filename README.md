@@ -22,6 +22,10 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [License](#license)
 - [Credits](#credits)
 
+### Data SIM Card
+
+At Taoyuan (TPE) or Songshan (TSA) airport you can buy Data SIM card from main carriers of Taiwan.
+
 ### Power (Socket)
 
 Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
