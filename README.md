@@ -22,6 +22,13 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [License](#license)
 - [Credits](#credits)
 
+### Power (Socket)
+
+Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
+
+[a-plug]: https://en.wikipedia.org/wiki/File:A_plug.jpg
+[b-plug]: https://en.wikipedia.org/wiki/File:B_plug.jpg
+
 ### Food
 
 #### Braised Pork Rice
@@ -45,6 +52,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 #### Sun Cakes
 #### Tube rice pudding
 #### Aiyu Jelly
+#### Din Tai Fung Dumpling House
 
 ### Cat Cafes
 
