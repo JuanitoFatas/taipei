@@ -24,7 +24,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ### Data SIM Card
 
-At Taoyuan (TPE) or Songshan (TSA) airport you can buy Data SIM card from main carriers of Taiwan.
+At [Taoyuan (TPE) (Mostly International flights)](http://www.taoyuan-airport.com) or [Songshan (TSA)](http://www.tsa.gov.tw/tsa/zh/home.aspx) airport you can buy Data SIM card from main carriers of Taiwan.
 
 ### Power (Socket)
 
