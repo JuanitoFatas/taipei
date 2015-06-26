@@ -37,6 +37,10 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 
 No need to tip.
 
+### Getting Around
+
+[Taipei MRT](http://english.metro.taipei) should be your first choice.
+
 ### Food
 
 #### Braised Pork Rice
