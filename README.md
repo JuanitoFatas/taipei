@@ -11,8 +11,6 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Communication](#communication)
 - [What to buy to bring back home](#what-to-buy-to-bring-back-home)
 - [Getting Around](#getting-around)
-  - [Taxi](#taxi)
-  - [MRT and Buses](#mrt-and-buses)
 - [Food](#food)
 - [Coffee Culture](#coffee-culture)
 - [Cat Cafes](#cat-cafes)
