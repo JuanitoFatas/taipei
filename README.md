@@ -29,4 +29,4 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ### Credits
 
-This guide is inspired by Ruby Singapore community, check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
+This guide is inspired by [Ruby Singapore community](http://ruby.sg), check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
