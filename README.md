@@ -33,6 +33,10 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 [a-plug]: https://en.wikipedia.org/wiki/File:A_plug.jpg
 [b-plug]: https://en.wikipedia.org/wiki/File:B_plug.jpg
 
+### Tipping
+
+No need to tip.
+
 ### Food
 
 #### Braised Pork Rice
