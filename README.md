@@ -22,6 +22,30 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [License](#license)
 - [Credits](#credits)
 
+### Food
+
+#### Braised Pork Rice
+#### Stinky Tofu
+#### Beef Noodle
+#### Oyster Omelet
+#### Small Sausage in Large Sausage
+#### Bubble Tea
+#### Pan-fried bun
+#### Gua bao
+#### Tian bu la
+#### Ba wan
+#### Fried Chicken
+#### Flaky Scallion Pancake
+#### Oyster vermicelli
+#### Shaved Ice Mountain
+#### Pepper Cakes
+#### Ribs stewed in medicinal herbs
+#### Mochi
+#### Pineapple cake
+#### Sun Cakes
+#### Tube rice pudding
+#### Aiyu Jelly
+
 ### Cat Cafes
 
 ![Taipei MRT map of Cat Cafes](https://cloud.githubusercontent.com/assets/1000669/8227495/799b3e3a-15da-11e5-9d92-c468dcd1cfc3.jpg)<sub>Credit: <a href="http://sping60.pixnet.net/blog/post/33007306" target="_blank">Ms.Aman</a>
