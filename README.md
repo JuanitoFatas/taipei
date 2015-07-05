@@ -31,6 +31,10 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 [a-plug]: https://en.wikipedia.org/wiki/File:A_plug.jpg
 [b-plug]: https://en.wikipedia.org/wiki/File:B_plug.jpg
 
+### Free WiFi
+
+Sign up an account from [TPE-Free](http://www.tpe-free.taipei.gov.tw/TPE/index_en.aspx). Most of the public places have TPE-Free.
+
 ### Tipping
 
 No need to tip.
