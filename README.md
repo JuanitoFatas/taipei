@@ -13,6 +13,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Getting Around](#getting-around)
 - [Food](#food)
 - [Coffee Culture](#coffee-culture)
+- [Cafe](#cafe)
 - [Cat Cafes](#cat-cafes)
 - [Sight Seeing](#sight-seeing)
 - [Currency](#currency)
@@ -67,6 +68,10 @@ No need to tip.
 #### Tube rice pudding
 #### Aiyu Jelly
 #### Din Tai Fung Dumpling House
+
+### Cafe
+
+Ongoing [list of cafes](https://github.com/JuanitoFatas/taipei/wiki/Cafe) put together in Wiki.
 
 ### Cat Cafes
 
